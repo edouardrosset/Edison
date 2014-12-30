@@ -4,7 +4,7 @@ The script Intel_Edison_postFlash.sh takes you through steps usefull after flash
 
 1. Fix the boot partition size. Found here: https://communities.intel.com/message/259295
 
-2. Configure wifi. Just running  ```shell configure_edison --setup ```
+2. Configure wifi. Just running  ``` configure_edison --setup ```
 
 3. Config opkg and get some packages. You can update here the packages you want to use
 
