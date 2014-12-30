@@ -1,6 +1,6 @@
 Edison
 ======
-The script takes you through steps usefull after flashing your Edison :
+The script Intel_Edison_postFlash.sh takes you through steps usefull after flashing your Edison :
 
 1. Fix the boot partition size
   Fix found here : https://communities.intel.com/message/259295
