@@ -6,7 +6,7 @@ The script Intel_Edison_postFlash.sh takes you through steps usefull after flash
 
 2. Configure wifi. Just running  ``` configure_edison --setup ```
 
-3. Config opkg and get some packages. You can update here the packages you want to use
+3. Config opkg and get some packages. You can update here the packages you want to use. Inspired by Minipada : https://github.com/Minipada/Electronics/tree/master/Intel/Intel%20Edison/Install%20your%20Edison
 
 4. Enable GPIO 18 & 19 for I²C. From here: https://communities.intel.com/docs/DOC-23161 at §11.6 "Configure IO18/IO19 for I 2 C connectivity". (Note : IO18 = SDA = pin A4 = pin SDA and IO 19 = SCL = pin A5 = pin SDL on Arduino Board)
 
